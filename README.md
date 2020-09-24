@@ -1,9 +1,9 @@
 # Movie List
 A simple wed appliction for movie fanatic.
 
-![MyImage](https://drive.google.com/file/d/1jWoI0OMFb6Y0MjXWH9FDBn2pAMyS3v_k/view?usp=sharing)
+![MyImage](https://drive.google.com/file/d/1wi3Pz86nIC6-mfvDFE6nwPZzF8MoB1Bh/view?usp=sharing)
 
-![MyImage](https://drive.google.com/file/d/1s_c3WmnqnnA7Crk_52A9llDODTso_Fzu/view?usp=sharing)
+![MyImage](https://drive.google.com/file/d/1J-yt6IuyfMDEiE4vWAYU_OznbwTcPlLj/view?usp=sharing)
 
 
 ## Feature
