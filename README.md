@@ -1,6 +1,11 @@
 # Movie List
 A simple wed appliction for movie fanatic.
 
+![MyImage](https://drive.google.com/file/d/1jWoI0OMFb6Y0MjXWH9FDBn2pAMyS3v_k/view?usp=sharing)
+
+![MyImage](https://drive.google.com/file/d/1s_c3WmnqnnA7Crk_52A9llDODTso_Fzu/view?usp=sharing)
+
+
 ## Feature
 * listing movies from movie api
 * searching movies to your favorite list
@@ -16,3 +21,6 @@ in index page, press the `+` button on the movie to keep it in your favorite lis
 
 ## Movie informations
 You can click "more" button to see more information.
+
+## Switch between list mode and card mode
+You can switch mode by click button on upper right corner.
